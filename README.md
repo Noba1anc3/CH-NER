@@ -67,11 +67,7 @@ python3 main.py --mode=predict
 **法院文本数据集链接：https://bhpan.buaa.edu.cn:443/link/2D9354CBB78139E88F31A4A43DDDEACA**
 
 ## 相关文献
-<div id='refer-anchor-1'></div>
 + [Bidirectional LSTM-CRF Models for Sequence Tagging](https://arxiv.org/pdf/1508.01991v1.pdf)
-<div id='refer-anchor-2'></div>
 + [Neural Architectures for Named Entity Recognition](https://www.aclweb.org/anthology/N16-1030/)
-<div id='refer-anchor-3'></div>
 + [Character-Based LSTM-CRF with Radical-Level Features for Chinese Named Entity Recognition](https://link.springer.com/chapter/10.1007/978-3-319-50496-4_20)
-<div id='refer-anchor-4'></div>
 + [https://github.com/guillaumegenthial/sequence_tagging](https://github.com/guillaumegenthial/sequence_tagging)
