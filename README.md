@@ -64,7 +64,7 @@ python3 main.py --mode=predict
 ![Image text](https://tva1.sinaimg.cn/large/00831rSTgy1gd7bn820ljj30xg05stdf.jpg)
 
 为了进一步验证模型的鲁棒性，标注了法院文本数据集进行进一步的测试
-数据集:
+
 **法院文本数据集链接：https://bhpan.buaa.edu.cn:443/link/2D9354CBB78139E88F31A4A43DDDEACA**
 
 测试结果：
