@@ -1,6 +1,6 @@
 # 使用BiLSTM+CRF实现中文命名实体识别  
 ![Image text](https://img.shields.io/badge/Version-v1.0.0-lightgrey)
-- **[相关文档](http://47.98.230.217:3000/NE_Extration/CH-NER/wiki/_pages)**
+- **[设计文档](https://github.com/Noba1anc3/CH-NER/wiki/%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3)**
 
 ## 环境要求  
 ![Image text](https://img.shields.io/badge/Python-3.6-green?style=flat)
