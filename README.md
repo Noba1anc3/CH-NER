@@ -2,7 +2,7 @@
 ![Image text](https://img.shields.io/badge/Version-v1.0.0-lightgrey)
 - **[设计文档](https://github.com/Noba1anc3/CH-NER/wiki/%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3)**
 - **[数据集 & 评估标准](https://github.com/Noba1anc3/CH-NER/wiki/%E6%95%B0%E6%8D%AE%E9%9B%86-&-%E8%AF%84%E4%BC%B0%E6%A0%87%E5%87%86)**
-
+- **[评估结果分析](https://github.com/Noba1anc3/CH-NER/wiki/%E8%AF%84%E4%BC%B0%E7%BB%93%E6%9E%9C%E5%88%86%E6%9E%90)**
 ## 环境要求  
 ![Image text](https://img.shields.io/badge/Python-3.6-green?style=flat)
 ![Image text](https://img.shields.io/badge/Tensorflow-≥1.14.1-green?style=flat) 
