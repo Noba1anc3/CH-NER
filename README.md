@@ -15,7 +15,7 @@
 第三层，**CRF**层，在一个句子中为每个字符标记标签。如果使用**Softmax**进行标记，由于**Softmax**层独立地标记每个位置，可能会得到非随机标记序列。例如:“I-LOC”不能跟在“B-PER”后面，但**Softmax**并不清楚。与**Softmax**相比，**CRF**层可以利用句子级的标签信息，对两个不同标签的转换行为进行建模。
 
 ## 数据集
-数据集使用的是经过清理后的**MSRA**数据集，**WiKi**数据集，以及利用百度**LAC**标注工具标注的**LAC**数据集。以下是数据集的展示。
+数据集使用的是清理后的**MSRA**数据集，**WiKi**数据集，以及利用百度**LAC**标注工具标注的**LAC**数据集。以下是数据集展示
 ![Image text](https://tva1.sinaimg.cn/large/00831rSTgy1gd7bhaap8mj30zc06mq51.jpg)
 **数据集：https://bhpan.buaa.edu.cn:443/link/FA4A907B7EE4C679FE59B45EB7E5B10F**
 
