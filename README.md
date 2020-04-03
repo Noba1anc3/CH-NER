@@ -17,7 +17,7 @@
 ## 数据集
 数据集使用的是清理后的**MSRA**数据集，**WiKi**数据集，以及利用百度**LAC**标注工具标注的**LAC**数据集。以下是数据集展示
 ![Image text](https://tva1.sinaimg.cn/large/00831rSTgy1gd7bhaap8mj30zc06mq51.jpg)
-**数据集：https://bhpan.buaa.edu.cn:443/link/FA4A907B7EE4C679FE59B45EB7E5B10F**
+**数据集：https://bhpan.buaa.edu.cn:443/link/0229CC6A5311D913AF03758FA10F96B3**
 
 ### 数据文件
 目录`.data/`下包括
@@ -62,9 +62,13 @@ python3 main.py --mode=predict
 
 下图是测试集在本项目模型和百度LAC模型中的测试效果对比，其中数据集按照**8：1：1**划分为训练集、测试集、验证集。
 ![Image text](https://tva1.sinaimg.cn/large/00831rSTgy1gd7bn820ljj30xg05stdf.jpg)
-为了进一步验证模型的鲁棒性，手动标注了法院文本数据集进行进一步的测试，以下是测试结果：
-![Image text](https://tva1.sinaimg.cn/large/00831rSTgy1gd7bp04bk9j30y005cq7q.jpg)
+
+为了进一步验证模型的鲁棒性，标注了法院文本数据集进行进一步的测试
+数据集:
 **法院文本数据集链接：https://bhpan.buaa.edu.cn:443/link/2D9354CBB78139E88F31A4A43DDDEACA**
+测试结果：
+![Image text](https://tva1.sinaimg.cn/large/00831rSTgy1gd7bp04bk9j30y005cq7q.jpg)
+
 
 ## 相关文献
 + [Bidirectional LSTM-CRF Models for Sequence Tagging](https://arxiv.org/pdf/1508.01991v1.pdf)
