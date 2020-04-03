@@ -1,0 +1,4 @@
+tensorflow == 1.14
+numpy == 1.174
+logging == 0.4.9.6
+flask
