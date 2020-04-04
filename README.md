@@ -4,6 +4,7 @@
 - **[数据集 & 评估标准](https://github.com/Noba1anc3/CH-NER/wiki/%E6%95%B0%E6%8D%AE%E9%9B%86-&-%E8%AF%84%E4%BC%B0%E6%A0%87%E5%87%86)**
 - **[评估结果分析](https://github.com/Noba1anc3/CH-NER/wiki/%E8%AF%84%E4%BC%B0%E7%BB%93%E6%9E%9C%E5%88%86%E6%9E%90)**
 - **[清洗工具说明文档](https://github.com/Noba1anc3/CH-NER/wiki/%E6%B8%85%E6%B4%97%E5%B7%A5%E5%85%B7%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3)**
+ **[接口设计文档](https://github.com/Noba1anc3/CH-NER/wiki/%E6%8E%A5%E5%8F%A3%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3)**
 
 ## 环境要求  
 ![Image text](https://img.shields.io/badge/Python-3.6-green?style=flat)
