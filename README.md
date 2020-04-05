@@ -22,7 +22,7 @@
 ## 数据集
 数据集使用的是清理后的**MSRA**数据集，**WiKi**数据集，以及利用百度**LAC**标注工具标注的**LAC**数据集。以下是数据集展示
 ![Image text](https://tva1.sinaimg.cn/large/00831rSTgy1gd7bhaap8mj30zc06mq51.jpg)
-**数据集：https://bhpan.buaa.edu.cn:443/link/0229CC6A5311D913AF03758FA10F96B3**
+**数据集：https://bhpan.buaa.edu.cn:443/link/35660471E394C547737550E2D6FA8498**
 
 ### 数据文件
 目录`.data/`下包括
@@ -70,7 +70,7 @@ python3 main.py --mode=predict
 
 为了进一步验证模型的鲁棒性，标注了法院文本数据集进行进一步的测试
 
-**法院文本数据集链接：https://bhpan.buaa.edu.cn:443/link/1E091A8ACC627E01DD83D20C67435F06**
+**法院文本数据集链接：https://bhpan.buaa.edu.cn:443/link/55F1CA937ED188DB7E6EB50702F4AF8B**
 
 测试结果：
 ![Image text](https://tva1.sinaimg.cn/large/00831rSTgy1gd7bp04bk9j30y005cq7q.jpg)
